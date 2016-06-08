@@ -1,0 +1,1 @@
+/home/fasih/.bashrc
