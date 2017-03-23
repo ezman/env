@@ -19,6 +19,8 @@ Plugin 'plasticboy/vim-markdown'
 Plugin 'nono/vim-handlebars'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'vim-utils/vim-troll-stopper'
+Plugin 'fatih/vim-go'
+Plugin 'pearofducks/ansible-vim'
 
 call vundle#end()    
 
